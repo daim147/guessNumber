@@ -1,2 +1,3 @@
 # Guess Number Game
-# [Live Demo](https://daimsyed.github.io/guessNumber/)
+# <a href="https://daimsyed.github.io/guessNumber/">Click Here for Live Demo</a>
+
